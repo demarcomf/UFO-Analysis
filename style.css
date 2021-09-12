@@ -1,0 +1,9 @@
+body {
+  background-image: url(C:\Users\Micha\Desktop\GW_DATA\UFO\static\css\download.jpg);
+  /* color: #f7f7f7; */
+}
+.jumbotron {
+  background-image: url("nasa.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
